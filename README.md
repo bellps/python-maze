@@ -1,3 +1,4 @@
+# Trabalho: Aplicações Práticas e Teoria dos Grafos
 ## Objetivo geral
 Encontrar a saída de um labirindo representado por um grafo dirigido por meio de um algoritmo de busca em profundidade.
 
